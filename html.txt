@@ -1,0 +1,50 @@
+html là ngôn ngữ siêu văn bản hiện trên web
+h(123456) là các tiêu đề. H càng bé chữ càng to 
+P tạo đoạn văn bản 
+Span là phần demo về phần câu văn
+b thẻ in đậm
+i là thẻ in nghiêng 
+u là thẻ gạch chân 
+tr là cột dòng ngang ( muốn dùng td or tr phải dùng table )
+td là côt nằm dọc
+border là khung 
+(a) có tác dụng dẫn link
+target trong thẻ (a) sang cửa sổ mới "_blank"
+img là thêm ảnh
+alt là đoạn văn bản khi ảnh chưa kịp load
+src là source ( chỗ thêm ảnh or địa chỉ ảnh )
+./ vào 1 file hoặc một thư mục, cùng cấp và cùng vị trí với nhau, truy cập đến
+../ out 1 file hoặc một thư mục
+-ul trong ul thì có li có dấu chấm ở đầu dòng
+-ol là thứ tự đếm cx phải có li
+form là tạo file dữ liệu
+	- input: hộp ô nhập
+		- placeholder chữ mờ trong ô input
+		- Name và value trong input
+                - text trong type cho phép viết tiếng việt
+		- password trong type cho phép viết như mật khẩu chuyển thành ***
+	-select chọn các số thứ tự trong input (option (1......20...))
+		-radio lựa chọn 1 giá trị
+		- checkbox lựa chọn nhiều giá trị
+		- file : tải file từ máy tính lên
+	- br các lựa chọn để hoàn thành - button để tạo ra các ô lựa chọn 
+		- button
+		- submit
+		- reset
+display:-block chiếm diện tích bề ngang 
+	-inline dùng trong span, k ăn thuộc tính wight heigh và margin, sẽ bị co phần tử vào.
+	-flex tập hợp con trong cha
+p dùng display block
+còn span dùng display inline
+border-radious 50% hình tròn
+	-flex: 
+		-flex-direction: row (nằm ngang)
+		-justify-content: căn theo chiều flex-direction . space between ở giữa space-around căn 2 lề
+		-align-items: ngược lại vs justify-content
+		-inline-block
+-position: static( giá trị mặc định)
+	khi dùng absulute thì top left eught bottom có hiệu lực
+z-index càng cao thì thằng đằng trước càng đc đè lên trước
+
+
+		
